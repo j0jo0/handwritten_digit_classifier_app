@@ -1,6 +1,7 @@
 # MNIST Handwritten Digit Classifier
 
-![App Demo](https://raw.githubusercontent.com/j0jo0/handwritten_digit_classifier_app/master/assets/app_demo.png)
+<img src="https://raw.githubusercontent.com/j0jo0/handwritten_digit_classifier_app/master/assets/app_demo.png" style="width:400px;">
+
 
 A Flutter mobile app that recognizes handwritten digits drawn on a canvas in real-time. It uses a custom-trained neural network, converted to TFLite for efficient on-device inference.
 
