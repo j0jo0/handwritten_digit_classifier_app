@@ -100,4 +100,4 @@ This universal method works in any terminal.
 
 ---
 
-*This README was created with assistance from an AI code assistant.*
+*This README and a part from the codebase was created with assistance from an AI code assistant.*
